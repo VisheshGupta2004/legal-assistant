@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/legal-assistant?style=social)](https://github.com/yourusername/legal-assistant/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/legal-assistant?style=social)](https://github.com/VisheshGupta2004/legal-assistant)
 
 An intelligent legal assistant that provides accurate and reliable information based on Indian legal documents using state-of-the-art natural language processing.
 
