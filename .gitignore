@@ -1,0 +1,9 @@
+env
+.env
+
+trial.ipynb
+trials.ipynb
+llama-2-7b-chat.ggmlv3.q4_0.bin
+llama-3.2-3b-instruct-q4_k_m.gguf
+
+help.txt
